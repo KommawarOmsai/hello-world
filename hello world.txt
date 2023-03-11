@@ -1,1 +1,1 @@
-print("Discord is my ne hobby")
+print("Discord is my new hobby")
